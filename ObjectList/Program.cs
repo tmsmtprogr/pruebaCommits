@@ -128,15 +128,15 @@ namespace ObjectList
                 //else
                 //    usuarios.Sum(x => x.dinero);
             }
-           
+
 
             //Console.WriteLine("usuarios nacidos el mes de septiembre son " + usrSept);
 
 
             //Console.WriteLine("usuario Hombre mas viejo nacido a partir del año 2000 es " + us + " " + "oldest"); //--
             //--
-
-
+            Console.WriteLine();
+            Console.WriteLine("hola mundo");
 
 
             //Console.WriteLine("Usuarios que en su nombre contengan 'an' son " + cuantosAnCuantasA);
