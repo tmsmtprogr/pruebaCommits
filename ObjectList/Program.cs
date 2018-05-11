@@ -136,7 +136,7 @@ namespace ObjectList
             //Console.WriteLine("usuario Hombre mas viejo nacido a partir del año 2000 es " + us + " " + "oldest"); //--
             //--
             Console.WriteLine();
-            Console.WriteLine("hola mundo");
+            Console.WriteLine("Hello World");
 
 
             //Console.WriteLine("Usuarios que en su nombre contengan 'an' son " + cuantosAnCuantasA);
